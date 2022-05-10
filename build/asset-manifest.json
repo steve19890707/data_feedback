@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/data_feedback/static/js/main.0fc24b5e.chunk.js",
+    "main.js.map": "/data_feedback/static/js/main.0fc24b5e.chunk.js.map",
+    "runtime-main.js": "/data_feedback/static/js/runtime-main.3ea6cd0c.js",
+    "runtime-main.js.map": "/data_feedback/static/js/runtime-main.3ea6cd0c.js.map",
+    "static/css/2.3a5f1a50.chunk.css": "/data_feedback/static/css/2.3a5f1a50.chunk.css",
+    "static/js/2.088268d5.chunk.js": "/data_feedback/static/js/2.088268d5.chunk.js",
+    "static/js/2.088268d5.chunk.js.map": "/data_feedback/static/js/2.088268d5.chunk.js.map",
+    "index.html": "/data_feedback/index.html",
+    "precache-manifest.963975f72633a5a3660407bb1837cbfb.js": "/data_feedback/precache-manifest.963975f72633a5a3660407bb1837cbfb.js",
+    "service-worker.js": "/data_feedback/service-worker.js",
+    "static/css/2.3a5f1a50.chunk.css.map": "/data_feedback/static/css/2.3a5f1a50.chunk.css.map",
+    "static/js/2.088268d5.chunk.js.LICENSE.txt": "/data_feedback/static/js/2.088268d5.chunk.js.LICENSE.txt",
+    "static/media/react-widgets.css": "/data_feedback/static/media/loader-big.a770b679.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ea6cd0c.js",
+    "static/css/2.3a5f1a50.chunk.css",
+    "static/js/2.088268d5.chunk.js",
+    "static/js/main.0fc24b5e.chunk.js"
+  ]
+}

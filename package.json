@@ -1,7 +1,8 @@
 {
-  "name": "bear",
-  "version": "2.1.22",
+  "name": "data_feedback",
+  "version": "0.1.0",
   "private": true,
+  "homepage": "https://steve19890707.github.io/data_feedback/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -14,6 +15,7 @@
     "d3-selection-multi": "^1.0.1",
     "date-fns": "^2.9.0",
     "eslint-plugin-react-hooks": "^2.3.0",
+    "gh-pages": "^3.2.3",
     "gsap": "^3.0.5",
     "immutable": "^4.0.0-rc.12",
     "js-file-download": "^0.4.10",
@@ -43,7 +45,9 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
-    "eject": "react-app-rewired eject"
+    "eject": "react-app-rewired eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
